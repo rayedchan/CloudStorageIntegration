@@ -14,7 +14,8 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
-        <url-pattern>/</url-pattern>
+        <url-pattern>/newjsp.htm</url-pattern>
+        <url-pattern>/index.htm</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
